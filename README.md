@@ -1,0 +1,1 @@
+This is a simple browser created just with the purpose of practicing android programming.
